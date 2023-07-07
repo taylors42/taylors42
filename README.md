@@ -1,5 +1,5 @@
  ## _*Taylor, S*_
- _Essencialmente o local onde conservo meus codigos, ideias e repositorios pelos quais tenho apreço, sempre com o foco de difundir, disseminar e divulgar comhecimento._
+ _Essencialmente o local onde conservo meus codigos, ideias e repositorios pelos quais tenho apreço, sempre com o foco de difundir, disseminar e divulgar conhecimento._
 ## _My Social Media_
 <div>
 
