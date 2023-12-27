@@ -2,10 +2,9 @@
 
 Thats the place where I keep my repository, codes and ideas.
 
-**My Reseach Interest and Iam open too**:
+**My Reseach Interest and I'am open to**:
 - Web Development
-- any collobration work
-- research internships
+- any collaboration work
 - open-source projects
 
 ## Skills:
