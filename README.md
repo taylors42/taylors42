@@ -4,8 +4,8 @@ Thats the place where I keep my repository, codes and ideas.
 
 **My Reseach Interest and I'am open to**:
 - Web Development
-- any collaboration work
-- open-source projects
+- Any collaboration work
+- Open-source projects
 
 ## Skills:
 
