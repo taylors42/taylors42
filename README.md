@@ -34,8 +34,11 @@ Thats the place where I keep my repository, codes and ideas.
 ## Connect with me:
 <div>
  <a href="mailto:otaylorferreira78@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a/>
+  <a href="https://br.linkedin.com/in/taylors42" >
+ <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  
+   <a/>
  <div/>
 <br><br>
 
