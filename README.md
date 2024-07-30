@@ -1,14 +1,13 @@
-### Hi there, I'm [Taylor S](https://taylors.dev.br) 👋
+### Hi there, I'm Taylor S a Software Developer based in Brazil 👋
 
 Thats the place where I keep my repository, codes and ideas.
 
-### Languages:
+### My technicals Skills:
 <div>
-<img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="dotnet" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="left" alt="rs" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="mssql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
  <div/> <br><br><div>
 <div/>
 
@@ -20,12 +19,6 @@ Thats the place where I keep my repository, codes and ideas.
  <a href="https://br.linkedin.com/in/taylors42" >
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  
  <a/>
- <a href="https://dev.to/taylors42">
-  <img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
- </a>
-  <a href="https://leetcode.com/taylors42/">
-  <img align="left" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftaylors42&logo=leetcode&logoColor=yellow"/>
- </a>
  <div/>
 <br><br>
 
