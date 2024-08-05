@@ -1,4 +1,4 @@
-### Hi there, I'm Taylor S a Software Developer based in Brazil 👋
+### Hi there 👋, I'm Taylor S a Software Developer based in Brazil
 
 Thats the place where I keep my repository, codes and ideas.
 
