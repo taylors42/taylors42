@@ -1,7 +1,7 @@
 # Taylor S. Ferreira
 
 ### Hi there 👋 
-I'm a Software Developer specializing in back-end development, based in São Paulo, Brazil.
+I'm a .NET Developer specializing in back-end development, based in São Paulo, Brazil.
 Building robust solutions with .NET & ASP.NET, Python, and modern technologies.
 
 ## 🛠 Technical Skills
