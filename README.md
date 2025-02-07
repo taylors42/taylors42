@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 I'm a Software Developer specializing in back-end development, based in São Paulo, Brazil.
-Building robust solutions with .NET, Python, and modern technologies.
+Building robust solutions with .NET & ASP.NET, Python, and modern technologies.
 
 ## 🛠 Technical Skills
 
