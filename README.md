@@ -37,7 +37,7 @@ Building robust solutions with .NET & ASP.NET, Python, and modern technologies.
 
 <br><br>
 
-## 📫 Connect with me
+## Connect with me
 <div>
 <a href="mailto:otaylorferreira78@gmail.com" target="_blank">
 <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
