@@ -4,7 +4,7 @@
 I'm a .NET Developer specializing in back-end development, based in São Paulo, Brazil.
 Building robust solutions with .NET & ASP.NET, Python, and modern technologies.
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### Languages & Frameworks
 <div>
