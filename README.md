@@ -16,11 +16,11 @@ about me<br>
   my stack/skills <br>
   {
 <ul> 
-  backend: c#/.net, asp.net, entity framework, ms bot framework python<br>
+  backend: c#/.net, asp.net, entity framework, ms bot framework, python<br>
   frontend: react, angular.js, blazor<br>
   database: sql server, postgresql, azure database<br>
   devops: azure devops pipeline(ci/cd), github actions, docker, kubernetes(k8s) <br>
-  cloud: Microsoft Azure services (App Service, Functions, Azure SQL).
+  cloud: Azure services (App Service, Functions, Azure SQL), AWS.
 <br>
 
 </ul>}
@@ -30,7 +30,7 @@ contact <br>{
 <ul>
   linkedin: <a href="https://www.linkedin.com/in/taylors42-dev/">Taylor S.</a> <br>
   email: <a href="mailto:otalyorferreira78@gmail.com">otaylorferreira78@gmail.com</a><br>
-  my blog: <a href="https://blog.taylors42.com.br">tay blog</a><br>
-  my site: <a href="https://taylors42.com.br">taylorportifolio</a><br>
+<!--   my blog: <a href="https://blog.taylors42.com.br">tay blog</a><br>
+  my site: <a href="https://taylors42.com.br">taylorportifolio</a><br> -->
 </ul> }
 </samp>
