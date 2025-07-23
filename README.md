@@ -23,9 +23,9 @@ about me:<br>
 </samp>
 contact:<br>
 <ul>
-  linkedin: <a href="https://www.linkedin.com/in/taylors42-dev/">Taylor S.</a> <br>
+<!-- linkedin: <a href="https://www.linkedin.com/in/taylors42-dev/">Taylor S.</a> <br> -->
   email: <a href="mailto:otalyorferreira78@gmail.com">otaylorferreira78@gmail.com</a><br>
-<!--   my blog: <a href="https://blog.taylors42.com.br">tay blog</a><br>
-  my site: <a href="https://taylors42.com.br">taylorportifolio</a><br> -->
+  my blog: <a href="https://blog.taylors42.com.br">tay blog</a><br>
+  my site: <a href="https://taylors42.com.br">taylorportifolio</a><br>
 </ul>
 </samp>
