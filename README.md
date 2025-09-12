@@ -2,7 +2,7 @@
 hello! 
 <br>
 <br>
-I'm <i>Taylor S.</i> a <b>22yo</b> fullstack software engineer.
+I'm <i>Taylor S.</i> a <b>22yo</b> functional fullstack software engineer.
 <br>
 <br>
 about me:<br>
@@ -13,8 +13,8 @@ about me:<br>
 </ul>
   my stack/skills:<br>
 <ul> 
-  backend: c#/.net, asp.net, entity framework, ms bot framework, python<br>
-  frontend: react, angular.js, blazor<br>
+  backend: f#, c#/.net, asp.net, entity framework, ms bot framework, python<br>
+  frontend: giraffe, blazor, react<br>
   database: sql server, postgresql, azure database<br>
   devops: azure devops pipeline(ci/cd), github actions, docker, kubernetes(k8s) <br>
   cloud: Azure services (App Service, Functions, Azure SQL), AWS.
