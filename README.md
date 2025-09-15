@@ -28,4 +28,8 @@ contact:<br>
 <!--   my blog: <a href="https://blog.taylors42.com.br">tay blog</a><br> -->
 <!--   my site: <a href="https://taylors42.com.br">taylorportifolio</a><br> -->
 </ul>
+<h3>My top languages</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylors42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </samp>
