@@ -9,7 +9,6 @@ about me:<br>
 <ul>
   I am specialized in the <b>.net platform</b><br>
   brazilian 🇧🇷 (<abbr title="Portuguese - Brazil">pt-br</abbr> / <abbr title="English">en</abbr>)<br>
-  actually I work at GeoSIGA
 </ul>
   my stack/skills:<br>
 <ul> 
