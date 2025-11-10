@@ -12,7 +12,7 @@ about me:<br>
 </ul>
   my stack/skills:<br>
 <ul> 
-  backend: f#, c#/.net, asp.net, entity framework, ms bot framework, python<br>
+  backend: c#/.net, asp.net, entity framework, ms bot framework, python, f#, <br>
   frontend: blazor, react<br>
   database: sql server, postgresql, azure database<br>
   devops: azure devops pipeline(ci/cd), github actions, docker, kubernetes(k8s) <br>
