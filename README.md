@@ -12,11 +12,11 @@ about me:<br>
 </ul>
   my stack/skills:<br>
 <ul> 
-  backend: c#/.net, asp.net, entity framework, ms bot framework, python, f#, <br>
+  backend: c#/.net, asp.net core, entity framework, ms bot-framework, dapper, hibernate<br>
   frontend: blazor, react<br>
-  database: sql server, postgresql, azure database<br>
-  devops: azure devops pipeline(ci/cd), github actions, docker, kubernetes(k8s) <br>
-  cloud: Azure services (App Service, Functions, Azure SQL), AWS.
+  database: sql server, postgresql, redis, mongodb, azure database<br>
+  devops: azure devops pipeline(ci/cd), github actions, docker<br>
+  cloud: azure services (App Service, Functions, Azure SQL), AWS.
 <br>
 </ul>
 </samp>
@@ -27,8 +27,4 @@ contact:<br>
 <!--   my blog: <a href="https://blog.taylors42.com.br">tay blog</a><br> -->
 <!--   my site: <a href="https://taylors42.com.br">taylorportifolio</a><br> -->
 </ul>
-<h3>My top languages</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylors42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </samp>
