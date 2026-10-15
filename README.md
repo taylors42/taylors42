@@ -23,7 +23,7 @@ about me:<br>
 contact:<br>
 <ul>
 <!-- linkedin: <a href="https://www.linkedin.com/in/taylors42-dev/">Taylor S.</a> <br> -->
-  email: <a href="mailto:contato@taylorsouza.com">contato@taylorsouza.com/a><br>
+  email: <a href="mailto:contato@taylorsouza.com">contato@taylorsouza.com</a><br>
 <!--   my blog: <a href="https://blog.taylors42.com.br">tay blog</a><br> -->
 <!--   my site: <a href="https://taylors42.com.br">taylorportifolio</a><br> -->
 </ul>
